@@ -1,4 +1,8 @@
 /* HABILIDADES */
+.habilidades {
+    background-color: var(--cor-fundo-cinza-claro);
+}
+
 .habilidades .container-habilidades {    
     text-align: center;    
     display: flex;
